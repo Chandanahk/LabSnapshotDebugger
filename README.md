@@ -6,7 +6,7 @@ Repro steps:
 
     Use Snaptshot debugger to troubleshoot it.
 
-1. Browse /reprp/Return500 to repro a 500 response, without any exception thrown.
+1. Browse /repro/Return500 to repro a 500 response, without any exception thrown.
 
     Can Snapshot debugger provide any detail of this 500 error?
 
